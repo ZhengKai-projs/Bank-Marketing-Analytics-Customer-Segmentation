@@ -83,7 +83,7 @@ This study uses a bank marketing dataset containing **4,521 records across 14 va
 
 ---
 
-## ✅ Key Results
+## 🎯 Key Results
 
 | Segment | Subscription Count | Avg Call Duration |
 |---|---|---|
@@ -93,7 +93,7 @@ This study uses a bank marketing dataset containing **4,521 records across 14 va
 
 ---
 
-## ⚠️ Limitations
+## 🚫 Limitations
 
 - Dataset reflects a single historical campaign; client behaviour may shift across economic conditions
 - `poutcome` (previous campaign outcome) is unknown for 82% of records, limiting prior engagement analysis
